@@ -1,7 +1,7 @@
-## Lab: 31 - Django REST Framework / Docker
+## Lab: 33 - Authentication & Production Server
 
 
-### Estimate of time needed to complete: 3 hours
-### Start time: at 2:30 pm
-### Finish time: at 5.12 pm
+### Estimate of time needed to complete: 4 hours
+### Start time: at 1/12/2021 4:30 pm
+### Finish time: at 1/14/2021 7:17 pm
 ### Actual time needed to complete: 3 hours
