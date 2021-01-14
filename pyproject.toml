@@ -5,10 +5,14 @@ description = ""
 authors = ["omarXzain <omaren2010@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "~3.8"
 Django = "^3.1.5"
 djangorestframework = "^3.12.2"
 psycopg2-binary = "^2.8.6"
+djangorestframework-simplejwt = "^4.6.0"
+djangorestframework-jwt = "^1.11.0"
+gunicorn = "^20.0.4"
+whitenoise = "^5.2.0"
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.6.0"
